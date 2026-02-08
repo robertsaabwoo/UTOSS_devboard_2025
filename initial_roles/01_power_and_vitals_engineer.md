@@ -16,6 +16,7 @@
     1.  Monitor Input Current (Amps) & Voltage.
     2.  Control a Cooling Fan based on temperature or load.
     3.  Act as a **USB-to-UART Bridge** for the FPGA Linux Console.
+  (for a start, I would recommend a simple MCU like the ATMega. Make sure to include JTAG for programming)!
 
 ## 2. Constraints & Rules
 * **Voltage Levels:** The FPGA Core Board requires exactly **5.0V** at its input pins. Do not exceed 5.2V.
