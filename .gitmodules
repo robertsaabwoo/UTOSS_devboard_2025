@@ -1,0 +1,3 @@
+[submodule "manuals/QMTECH_XC7A75T-100T-200T_Core_Board"]
+	path = manuals/QMTECH_XC7A75T-100T-200T_Core_Board
+	url = https://github.com/ChinaQMTECH/QMTECH_XC7A75T-100T-200T_Core_Board.git
